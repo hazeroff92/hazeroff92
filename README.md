@@ -1,7 +1,7 @@
 # A little bit about me
 13 years old linux enthusiast | Learning Golang | Future DevOps Engineer
 
-[![my stack: ](https://skillicons.dev/icons?i=golang,docker)](https://skillicons.dev)
+my stack: [![my stack: ](https://skillicons.dev/icons?i=golang,docker)](https://skillicons.dev)
 <!--
 **hazeroff92/hazeroff92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
