@@ -1,8 +1,14 @@
 # A little bit about me
-13 years old linux enthusiast | Learning Golang | Future DevOps Engineer
+| 13 years old linux enthusiast | Learning Golang | Future DevOps Engineer |
+|:------------------------------|:----------------|:-----------------------|
 
-## my stack:
-[![my stack: ](https://skillicons.dev/icons?i=golang,docker,github,vscode,fedora)](https://skillicons.dev)
+### my stack:
+[![my stack: ](https://skillicons.dev/icons?i=golang,docker,github,vscode,linux)](https://skillicons.dev)
+
+### me in the internet
+| discord: nazar_9459
+
+| telegram: @hazeroff
 <!--
 **hazeroff92/hazeroff92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
