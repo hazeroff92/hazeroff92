@@ -2,7 +2,7 @@
 | 13 years old linux enthusiast | Learning Golang | Future DevOps Engineer |
 |:------------------------------|:----------------|:-----------------------|
 
-**Hello, my name is Nazar, i am a coding enthusiast who is interested in golang, docker and linux (i run fedora linux on my machine). Also i am a middle school student**
+**Hello, my name is Nazar, i am a coding enthusiast who is interested in golang, docker and linux (i run debian linux on my machine). Also i am a middle school student**
 ### my stack:
 [![my stack: ](https://skillicons.dev/icons?i=golang,docker,github,vscode,linux)](https://skillicons.dev)
 
